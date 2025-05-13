@@ -9,5 +9,5 @@
 
 ### Repository Access
 
-📁 Note: Most of my project repositories are currently private for academic integrity purposes
-🔓 Access: I'm happy to provide access to serious collaborators and potential employers upon request
+- 📁 Note: Most of my project repositories are currently private for academic integrity purposes
+- 🔓 Access: I'm happy to provide access to serious collaborators and potential employers upon request
