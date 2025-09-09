@@ -5,7 +5,7 @@
      and frameworks.  
 - 🌱 Currently working on: Real-time vehicle diagnostics pipeline with predictive maintenance capabilities
 - 📈 ML expertise: Regression, classification, NLP, time series, streaming data processing, and model deployment
-- 📚 Latest projects: Vehicle diagnostics pipeline with Big Data Tech, House price prediction with MLOps, Book recommendation system involving NLP
+- 📚 Latest projects: RAG Chatbot, Vehicle diagnostics pipeline with Big Data Tech, House price prediction with MLOps, Book recommendation system involving NLP
 - 🚀 Open to: Collaboration opportunities and learning exchanges
 - 📫 Reach me: datasci204@gmail.com
 
