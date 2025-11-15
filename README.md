@@ -13,3 +13,5 @@
 
 - 📁 Note: Most of my project repositories are currently private for academic integrity purposes
 - 🔓 Access: I'm happy to provide access to serious collaborators and potential employers upon request
+- <img width="1439" height="745" alt="image" src="https://github.com/user-attachments/assets/dbe298e5-e723-4d41-a4cf-6b932a37449e" />
+
